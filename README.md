@@ -1,2 +1,2 @@
 # Shopping-Website
-<embed>C:\Users\amelin fernandes\Downloads\WT report.pdf</embed>
+[WT report.pdf](https://github.com/Amelinfernandes/Shopping-Website/files/9254276/WT.report.pdf)
